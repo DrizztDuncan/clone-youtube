@@ -3,9 +3,8 @@
 
 clone-youtube app
 ## Demo
+![utube-cover](https://user-images.githubusercontent.com/39251171/216988358-721fd6d4-c930-40d0-b731-98c36bd3b7fc.gif)
 
-
-![image](https://duncan-yang.vercel.app/FEED.gif)
 ## Features
 
 - Responsive design
